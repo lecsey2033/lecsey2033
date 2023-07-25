@@ -52,7 +52,7 @@
 
 <br> Bootcamps </br>
 📋 Languages:
-![MySQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge)
 
 <br> DevOps </br>
 | Project name      | Description                | Tools |
