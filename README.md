@@ -49,3 +49,12 @@
 | [C7_SmartCalc_v1.0](https://github.com/lecsey2033/C7_SmartCalc_v1.0)| Creating an engineering calculator with Polish notation and plotting functions. And also credit calculators. |  C, C++, Qt, Makefile, Html, css, OOP | 
 | [C8_3DViewer_v1.0](https://github.com/lecsey2033/C8_3DViewer_v1.0)| A program for rendering a 3D model based on .obj files with the ability to change the rendering characteristics. And also creating screenshots and gif animations|  C, C++, Makefile, Qt, OpenGL, OOP | 
 
+<br> DevOps </br>
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
+| [DO1_Linux](https://github.com/lecsey2033/D01_Linux) | Linux system installation and updates. Administration basics. |  Ubuntu 20.04, terminal, bash|
+| [DO2_LinuxNetwork](https://github.com/lecsey2033/DO2_LinuxNetwork)| Linux networks configuration on virtual machines. | Ubuntu 20.04 terminal, bash, VirtualBox |
+| [DO3_LinuxMonitoring_v1.0](https://github.com/lecsey2033/DO3_LinuxMonitoring_v1.0) | Linux basic bash scripting and system research. |  Ubuntu 20.04, terminal, bash, VirtualBox |
+| [DO5_SimpleDocker](https://github.com/lecsey2033/DO5_SimpleDocker) | Introduction to docker. Developing a simple docker image for your own server. | Ubuntu 20.04, terminal, bash, Docker, Dockle, VirtualBox |
+| [DO6_CICD](https://github.com/lecsey2033/DO6_CICD) | Development of a simple CI/CD for the SimpleBashUtils project. Building, testing, deployment. |  Ubuntu 20.04, terminal, bash, CICD, gitlab, VirtualBox |
+
