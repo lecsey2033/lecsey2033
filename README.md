@@ -36,7 +36,7 @@
 [![](https://raw.githubusercontent.com/lecsey2033/lecsey2033/master/profile-summary-card-output/radical/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 ![](https://raw.githubusercontent.com/lecsey2033/lecsey2033/master/profile-summary-card-output/radical/4-productive-time.svg)
 
-<br> C/C++ Projects </br>
+<br> *C/C++ Projects* </br>
   📚 Frameworks, Platforms and Libraries C++:
   ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 | Project name      | Description                | Tools |
