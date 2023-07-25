@@ -41,6 +41,9 @@
   ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
-| [C2_StringPlus](https://github.com/lecsey2033/C2_s21_stringplus-0)| Implementation of the proprietary <string> library in C. A total of 26 functions, including sprintf() and sscanf()|  C, Makefile, Check.h, Malloc |
-| [C4_Math](https://github.com/lecsey2033/C4_s21_math-0)| Implementation of your own version of the math.h library. A total of 15 functions|  C, Makefile, Check.h | 
+| [C2_StringPlus](https://github.com/lecsey2033/C2_s21_stringplus-0)| Implementation of your own version of the <string.h> library. 26 functions, including sprintf() and sscanf().|  C, Makefile, Check.h, Malloc |
+| [C3_SimpleBashUtils](https://github.com/lecsey2033/C3_SimpleBashUtils)| Development of Bash text utilities: cat, grep.|  C, Makefile, getopt.h, regex.h, errno.h |
+| [C4_Math](https://github.com/lecsey2033/C4_s21_math-0)| Implementation of your own version of the <math.h> library. 15 functions.|  C, Makefile, Check.h |
+| [C5_Decimal](https://github.com/lecsey2033/C5_decimal)| Development of the "Decimal" type, which represents decimal numbers ranging from positive 79,228,162,514,264,337,593,543,950,335 to negative 79,228,162,514,264,337,593,543,950,335. 19 functions.|  C, Makefile, Check.h | 
+| [C6_Matrix](https://github.com/lecsey2033/C6_matrix)| Implementation of the <matrix.h> library. 11 functions|  C, Makefile, Check.h Calloc | 
 
