@@ -57,7 +57,7 @@
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge)
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
-| [SQL_bootcamp](https://github.com/lecsey2033/SQL_boot_camp) | 14 days of intensive study of the sql language and relational data models. |  PostgreSQL, DBeaver|
+| [SQL_bootcamp](https://github.com/lecsey2033/SQL_boot_camp) | 14 days of intensive study of the SQL language and relational data models. |  PostgreSQL, DBeaver|
 
 <br> DevOps </br>
 | Project name      | Description                | Tools |
