@@ -48,7 +48,7 @@
 | [C6_Matrix](https://github.com/lecsey2033/C6_matrix)| Implementation of the <matrix.h> library. 11 functions|  C, Makefile, Check.h Calloc | 
 | [C7_SmartCalc_v1.0](https://github.com/lecsey2033/C7_SmartCalc_v1.0)| Creating an engineering calculator with Polish notation and plotting functions. And also credit calculators. |  C, C++, Qt, Makefile, Html, css, OOP | 
 | [C8_3DViewer_v1.0](https://github.com/lecsey2033/C8_3DViewer_v1.0)| A program for rendering a 3D model based on .obj files with the ability to change the rendering characteristics. And also creating screenshots and gif animations|  C, C++, Makefile, Qt, OpenGL, OOP | 
-| [CPP2_containers](https://github.com/lecsey2033/CPP2_containers)| Native implementation of containers <array, list, map, multiset, queue, set, stack, vector>|  C++, Makefile, OOP, templates, gtest.h |
+| [CPP2_Containers](https://github.com/lecsey2033/CPP2_containers)| Native implementation of containers <array, list, map, multiset, queue, set, stack, vector>|  C++, Makefile, OOP, templates, gtest.h |
 
 <br> DevOps </br>
 | Project name      | Description                | Tools |
