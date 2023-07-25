@@ -36,5 +36,11 @@
 [![](https://raw.githubusercontent.com/lecsey2033/lecsey2033/master/profile-summary-card-output/radical/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 ![](https://raw.githubusercontent.com/lecsey2033/lecsey2033/master/profile-summary-card-output/radical/4-productive-time.svg)
 
- 
+<br> C/C++ Projects </br>
+  📚 Frameworks, Platforms and Libraries C++:
+  ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
+| [C1_StringPlus]([https://github.com/DonOutcast/s21_MultilayerPerceptron](https://github.com/lecsey2033/C2_s21_stringplus-0))| Implementation of the proprietary <string> library in C. A total of 26 functions, including sprintf() and sscanf()|  C, Makefile, Check.h, Malloc |
+| [C2_Math]([https://github.com/DonOutcast/s21_MultilayerPerceptron](https://github.com/lecsey2033/C2_s21_stringplus-0))| Implementation of your own version of the math.h library. A total of 15 functions|  C, Makefile, Check.h | 
 
