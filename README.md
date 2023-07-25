@@ -53,7 +53,11 @@
 
 <br> Bootcamps </br>
 📋 Languages:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge)
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
+| [SQL_bootcamp](https://github.com/lecsey2033/SQL_boot_camp) | 14 days of intensive study of the sql language and relational data models. |  PostgreSQL, DBeaver|
 
 <br> DevOps </br>
 | Project name      | Description                | Tools |
