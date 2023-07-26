@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://wallpaperaccess.com/full/5927911.gif" width="500"/>
-</div>
-
 <h1 align="center">Hi there, I'm <a href="https://github.com/lecsey2033" target="_blank">Aleksey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=lecsey2033&style=flat-square&color=blue" alt=""></p>
