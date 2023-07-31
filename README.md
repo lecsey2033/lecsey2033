@@ -38,7 +38,7 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lecsey2033&theme=slateorange)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lecsey2033&theme=slateorange)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lecsey2033&theme=slateorange)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lecsey2033&theme=slateorange)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lecsey2033&theme=slateorange&utcOffset=+3.00)
   
 <br>C/C++ Projects</br>
   📚 Frameworks, Platforms and Libraries C++:
