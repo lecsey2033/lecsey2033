@@ -48,6 +48,7 @@
 | [C8_3DViewer_v1.0](https://github.com/lecsey2033/C8_3DViewer_v1.0)| A program for rendering a 3D model based on .obj files with the ability to change the rendering characteristics. And also creating screenshots and gif animations|  C, C++, Makefile, Qt, OpenGL, OOP | 
 | [CPP1_MatrixPlus](https://github.com/lecsey2033/CPP1_MatrixPlus)| Implementation of the <matrix.h> library.|  C++, Makefile, OOP, gtest.h | 
 | [CPP2_Containers](https://github.com/lecsey2033/CPP2_containers)| Native implementation of containers <array, list, map, multiset, queue, set, stack, vector>|  C++, Makefile, OOP, templates, gtest.h |
+| [CPP3_SmartCalc_v2.0](https://github.com/lecsey2033/CPP3_SmartCalc_v.2.0)| Creating an engineering calculator with Polish notation and plotting functions. And also credit and debit calculators|  C++, Qt, Makefile, OOP, MVC, gtest.h |
 
 <br> Bootcamps </br>
 📋 Languages:
