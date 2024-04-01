@@ -44,7 +44,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lecsey2033&theme=slateorange)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lecsey2033&theme=slateorange&utcOffset=+3.00)
 
-<br>📱 [![android](https://cdn3.emoji.gg/emojis/4206_android.png)](https://emoji.gg/emoji/4206_android)Applications for android</br>
+<br>📱 [![android](https://cdn3.emoji.gg/emojis/4206_android.png)](https://emoji.gg/emoji/4206_android =x100)Applications for android</br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 | [C2_StringPlus](https://github.com/lecsey2033/C2_s21_stringplus-0)| Implementation of your own version of the <string.h> library. 26 functions, including sprintf() and sscanf().|  C, Makefile, Check.h, Malloc |
