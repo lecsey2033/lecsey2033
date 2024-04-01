@@ -43,6 +43,11 @@
 ![](https://raw.githubusercontent.com/lecsey2033/lecsey2033/master/profile-summary-card-output/slateorange/2-most-commit-language.svg)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lecsey2033&theme=slateorange)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lecsey2033&theme=slateorange&utcOffset=+3.00)
+
+<br>Applications for android</br>
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
+| [C2_StringPlus](https://github.com/lecsey2033/C2_s21_stringplus-0)| Implementation of your own version of the <string.h> library. 26 functions, including sprintf() and sscanf().|  C, Makefile, Check.h, Malloc |
   
 <br>C/C++ Projects</br>
   📚 Frameworks, Platforms and Libraries C++:
