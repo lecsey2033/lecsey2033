@@ -47,7 +47,7 @@
 <br>📱 Applications for android</br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
-| [A1 TODO Priority List App]([https://github.com/lecsey2033/C2_s21_stringplus-0](https://github.com/lecsey2033/TODOPriorityListApp/tree/master))| Creating a priority to-do list|  Java, Dao |
+| [A1_TODO_Priority_List_App](https://github.com/lecsey2033/TODOPriorityListApp)| Creating a priority to-do list|  Java, Dao |
   
 <br>C/C++ Projects</br>
   📚 Frameworks, Platforms and Libraries C++:
