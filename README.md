@@ -44,12 +44,13 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lecsey2033&theme=slateorange)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lecsey2033&theme=slateorange&utcOffset=+3.00)
 
-<br>📱 Applications for android</br>
+<br>📱 **Applications for android**</br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
-| [A1_TODO_Priority_List_App](https://github.com/lecsey2033/TODOPriorityListApp)| Creating a priority to-do list|  Java, Dao |
+| [A1_TODO_Priority_List_App](https://github.com/lecsey2033/TODOPriorityListApp)| Creating a priority to-do list|  Java, Dao, Room, RxJava |
+| [A2_Movies_App](https://github.com/lecsey2033/MoviesApp)| Implementation of the Kinopoisk API|  Java, Dao, Retrofit, Room, RxJava, ApiService |
   
-<br>C/C++ Projects</br>
+<br>**C/C++ Projects**</br>
   📚 Frameworks, Platforms and Libraries C++:
   ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 | Project name      | Description                | Tools |
@@ -66,7 +67,7 @@
 | [CPP3_SmartCalc_v2.0](https://github.com/lecsey2033/CPP3_SmartCalc_v.2.0)| Creating an engineering calculator with Polish notation and plotting functions. And also credit and debit calculators|  C++, Qt, Makefile, OOP, MVC, gtest.h |
 | [CPP4_3DViewer_v2.0](https://github.com/lecsey2033/CPP4_3DViewer_v2.0-2)| A program for rendering a 3D model based on .obj files with the ability to change the rendering characteristics. And also creating screenshots and gif animations|  C++, Makefile, Qt, OpenGL, gtest.h, OOP, patterns: MVC, Facade, Factory, Decorator|
 
-<br> Bootcamps </br>
+<br> **Bootcamps** </br>
 📋 Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge)
@@ -74,7 +75,7 @@
 | ------------- |:------------------------:| ------------------------:|
 | [SQL_bootcamp](https://github.com/lecsey2033/SQL_boot_camp) | 14 days of intensive study of the SQL language and relational data models. |  PostgreSQL, DBeaver|
 
-<br> DevOps </br>
+<br> **DevOps** </br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 | [DO1_Linux](https://github.com/lecsey2033/D01_Linux) | Linux system installation and updates. Administration basics. |  Ubuntu 20.04, terminal, bash|
