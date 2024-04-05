@@ -51,6 +51,7 @@
 | [2_Movies_App](https://github.com/lecsey2033/MoviesApp)| Mobile application using the Kinopoisk API|  Java, Dao, Retrofit, Room, RxJava, ApiService |
 | [3_Messenger_App](https://github.com/lecsey2033/MessengerApp)| A simple chat with the ability to register and reset your password. Communicating with any of the registered users.|  Java, Firebase |
 | [4_Crypto_App](https://github.com/lecsey2033/MessengerApp)| Mobile application using the API https://min-api.cryptocompare.com.|  Kotlin, Dao, Retrofit, Room, RxJava, ApiService, Picasso |
+| [5_Shopping_List_App](https://github.com/lecsey2033/ShoppingList)| In progress|  Kotlin |
   
 <br>**C/C++ Projects**</br>
   📚 Frameworks, Platforms and Libraries C++:
