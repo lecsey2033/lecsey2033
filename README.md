@@ -48,8 +48,9 @@
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 | [1_TODO_Priority_List_App](https://github.com/lecsey2033/TODOPriorityListApp)| Creating a priority to-do list|  Java, Dao, Room, RxJava |
-| [2_Movies_App](https://github.com/lecsey2033/MoviesApp)| Implementation of the Kinopoisk API|  Java, Dao, Retrofit, Room, RxJava, ApiService |
+| [2_Movies_App](https://github.com/lecsey2033/MoviesApp)| Mobile application using the Kinopoisk API|  Java, Dao, Retrofit, Room, RxJava, ApiService |
 | [3_Messenger_App](https://github.com/lecsey2033/MessengerApp)| A simple chat with the ability to register and reset your password. Communicating with any of the registered users.|  Java, Firebase |
+| [4_Crypto_App](https://github.com/lecsey2033/MessengerApp)| Mobile application using the API https://min-api.cryptocompare.com.|  Kotlin, Dao, Retrofit, Room, RxJava, ApiService, Picasso |
   
 <br>**C/C++ Projects**</br>
   📚 Frameworks, Platforms and Libraries C++:
